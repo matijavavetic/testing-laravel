@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <a href="/feedback">Click me</a>
+                <div class="title">Laravel 5</div>
             </div>
         </div>
     </body>
